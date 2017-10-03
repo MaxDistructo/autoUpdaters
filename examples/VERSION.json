@@ -1,0 +1,7 @@
+{
+"releaseChannel":"Stable",
+"name":"example",
+"version":"1.0",
+"URLpreReleaseChannel":"https://www.example.com/downloads/programName/",
+"URLpostReleaseChannel":"/programFile.jar"
+}
